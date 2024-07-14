@@ -6,7 +6,7 @@ dinner_raffle = [
     ["Pasta Salad"          ,                        1],
     ["Pizza"                ,                        1],
     ["Tortellini Soup"      ,                        1],
-    ["Chicken Noodle"       ,                        1],
+    ["Chicken Noodle Soup"  ,                        1],
     ["Enchiladas"           ,                        1],
     ["Tacos"                ,                        1],
     ["Manicotti"            ,                        1],
